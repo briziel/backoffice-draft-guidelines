@@ -6,4 +6,9 @@ Wir sammeln gemachte Erfahrung in der Erstellung von Backoffices. Diese beziehen
 
 ## Methoden
 
-Gesammelt werden Probleme, Methoden und mögliche Artefakte. Nicht stattfinden werden Empfehlungen zu Frameworks, Porgrammiersprachen etc.
+Gesammelt werden Probleme, Methoden und mögliche Artefakte. Nicht stattfinden werden Empfehlungen zu Frameworks, Programmiersprachen etc.
+
+Problem:
+- Welche Menschen beim ersten Termin?
+- Wie versteht der einzelne oder das Team das Kernproblem
+- 
